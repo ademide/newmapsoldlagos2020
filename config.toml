@@ -1,0 +1,40 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "New Maps of Old Lagos"
+theme = "hugo-creative-portfolio"
+
+[params]
+  # Style options: default (pink), blue, green, pink, red, sea, violet
+  # Use custom.css for your custom styling
+  style = "sea"
+  description = "Describe your website"
+  copyright = "&copy;2020 Ademide Adelusi-Adeluyi"
+  sidebarAbout = [
+    "Welcome! This site focuses on the history of Lagos in the 19th and 20th centuries, one map at a time. Start with the story of the OLD SHORELINE, then dig deeper into the history of Alakoro Island. Did it really float in the center Lagos Island?"
+  ]
+
+  # Nav links in the side bar
+  [[params.navlinks]]
+  name = "Home"
+  url = "portfolio/"
+  home = true
+
+  [[params.navlinks]]
+  name = "About"
+  url = "about/"
+
+  [[params.navlinks]]
+  name = "Get in touch"
+  url = "contact/"
+
+  [params.social]
+  #facebook      = "full page or profile url in facebook"
+  #googleplus    = "full profile url in googleplus"
+  email         = "ademide@ucr.edu"
+  twitter       = "full profile url in twitter"
+  linkedin      = "full profile url in linkedin"
+  # stackoverflow = "full profile url in stackoverflow"
+  instagram     = "full profile url in instagram"
+  github        = "full profile url in github"
+  youtube       = "full profile url in youtube"
+  #whatsapp      = "wa.me service link"
