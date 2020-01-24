@@ -6,7 +6,7 @@ theme = "hugo-creative-portfolio"
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "sea"
+  style = "blue"
   description = "Histories of Old Lagos."
   copyright = "&copy;2020 Ademide Adelusi-Adeluyi"
   sidebarAbout = [
