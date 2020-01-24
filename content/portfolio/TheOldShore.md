@@ -16,26 +16,21 @@ There is a unique history buried beneath the edges of city.
 <!---
 There should be an image here, maybe the full shoreline?
 -->
-![banner](img/portfolio/shoreline/shoreline1.png)
+![banner](/img/portfolio/Shoreline/shoreline1.png)
 
+![banner][1]
 
 Evidence of Lagos's old shores can be found in historical maps; and ArcGIS can help us find the past beneath the present city. Follow the links below to find out what lies beneath contemporary Lagos.
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
-
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+> This will be a quote from a newspaper.
 
 ## (What Header here?)
 
-### Elegbata Creek
+## Elegbata Creek
 
 There were small swamps all over the island, such as along the Marina and in the Kokomaiko area. Filling Elegbata Creek was the first major intervention, and work on this project began in  1886. Alakoro was filled and drained by 1908, and this led to the reconstruction of Kosseh and Balogun streets.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-### Isalegangan and Idumagbo
+## Isalegangan and Idumagbo
 
 Isalegangan and Idumagbo were the largest lagoons in Lagos Island, and for many years were the center of complaints from local residents. In 1929, the new Lagos Executive Development Board took on the work of draining swamps. By 1936, both of these lagoons were filled. But what was their significance for local residents?
 
@@ -48,7 +43,9 @@ insert i&iupdate.gif
 
 The areas around Alakoro, and by extension Ẹlẹgbata, were low lying and prone to flooding after heavy rains. This post looks at the before and after of the efforts to rid this part of Lagos of the mosquito larvae that settled in the swamps. Though it worked and made the areas healthier, it erased two important natural landmarks.
 
-[Comment: Insert image of Alakoro: "banner_ala.jpg"]
+<!---
+Comment: Insert image of Alakoro: "banner_ala.jpg"
+-->
 
 ![Alakora_banner][3]
 
@@ -69,6 +66,6 @@ AFTERS: Shots of Balogun and Kosseh St and the swamp, after the reclamation
 [images include after1a, after2a, after3a]
 
 
-[1]: img/portfolio/shoreline/shoreline1.png	""Shoreline""
+[1]: /img/portfolio/Shoreline/shoreline1.png
 [2]: img/portfolio/shoreline/shoreline2.png
 [3]: /img/portfolio/shoreline/banner_ala.jpg

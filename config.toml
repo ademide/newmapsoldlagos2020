@@ -7,7 +7,7 @@ theme = "hugo-creative-portfolio"
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "sea"
-  description = "Describe your website"
+  description = "Histories of Old Lagos."
   copyright = "&copy;2020 Ademide Adelusi-Adeluyi"
   sidebarAbout = [
     "Welcome! This site focuses on the history of Lagos in the 19th and 20th centuries, one map at a time. Start with the story of the OLD SHORELINE, then dig deeper into the history of Alakoro Island. Did it really float in the center Lagos Island?"
@@ -23,18 +23,18 @@ theme = "hugo-creative-portfolio"
   name = "About"
   url = "about/"
 
-  [[params.navlinks]]
-  name = "Get in touch"
-  url = "contact/"
+#  [[params.navlinks]]
+#  name = "Get in touch"
+#  url = "contact/"
 
   [params.social]
   #facebook      = "full page or profile url in facebook"
   #googleplus    = "full profile url in googleplus"
   email         = "ademide@ucr.edu"
-  twitter       = "full profile url in twitter"
+  #twitter       = "full profile url in twitter"
   linkedin      = "full profile url in linkedin"
   # stackoverflow = "full profile url in stackoverflow"
   instagram     = "full profile url in instagram"
   github        = "full profile url in github"
-  youtube       = "full profile url in youtube"
+  youtube       = "https://www.youtube.com/channel/UCMaGvf60GbLLNBl2aI-rgBQ"
   #whatsapp      = "wa.me service link"
